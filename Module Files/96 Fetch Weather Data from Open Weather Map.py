@@ -4,7 +4,6 @@ import pprint
 from pprint import pprint
 city_name = "dhaka"
 api_key = "63786c0f6e2c82f0d9890fd505c9a875"
-
 api_url = f"https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={api_key}&units=metric"
 
 
